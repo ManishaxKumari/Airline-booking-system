@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "backend of airline booking system",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "dev": "npx nodemon src/index.js"
+  },
   "author": "Manisha",
   "license": "ISC",
   "dependencies": {
